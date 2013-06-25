@@ -13,8 +13,15 @@ FBar Social plugin is a social sticky header bar for wordpress that magically ap
 
 FBar Social plugin is a social sticky header bar for wordpress that magically appears at a specific pixel.
 
-= More information =
-Please visit the plugin website at http://www.geckoandfly.com/ for more information.
+= Demo =
+For demo, please visit the official site and scroll down at http://www.geckoandfly.com/fbar-social-wordpress-plugin/
+
+== Screenshots ==
+
+1. User Interface
+2. Black Full Width Bar
+3. Blue Full Width Bar
+4. Black Fixed Width Bar
 
 == Installation ==
 
