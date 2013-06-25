@@ -1,0 +1,81 @@
+<!----fbar social wordpress plugin by geckoandfly---->	
+.rs-wrap{
+margin-left:auto;
+margin-right:auto;
+}
+.rs-settingContent{
+width:700px;
+background-color:#FAFAFA;
+padding:15px;
+border: 1px solid #EFEFEF;
+}
+.rs-genaral{
+width:700px;
+background-color:#FAFAFA;
+padding:5px 15px;
+border: 1px solid #EFEFEF;
+font-size:14px;
+}
+.sociallink{
+float:left;
+width:700px;
+background-color:#FAFAFA;
+padding:15px;
+border: 1px solid #EFEFEF;
+}
+.upload{
+width:700px;
+background-color:#FAFAFA;
+padding:15px;
+border: 1px solid #EFEFEF;
+}
+.clear{
+clear: both;
+padding-top:20px;
+}
+.namefiled{
+margin-right:50px;
+}
+.n-button{
+width:100px;
+color:#ffffff;
+float:left;
+height:35px;
+background-color:#3C81F3;
+border:1px solid #EFEFEF;
+}
+.u-button{
+width:70px;
+height:25px;
+background-color:#3C81F3;
+border:1px solid #EFEFEF;
+}
+.boxdiv{
+width:700px;
+}
+.namelebel{
+padding-right:60px;
+}
+.searchbox{
+	float:right;
+	margin:0px;
+	padding:0;
+}
+.searchbox input#fbs {
+	background:#fff url(images/search.png) no-repeat scroll 5px 6px;
+	-moz-border-radius: 12px;
+	border-radius: 5px;
+	border: 0px;
+	font-size: 14px;
+	height: 22px;
+	line-height: 1.2em;
+	padding: 4px 10px 4px 28px;
+}
+.searchbox input#searchsubmit {
+	display: none;
+}
+.searchbox form input[type='text'] {
+	width: 75%;
+	margin: 6px 0px 0px 0px !important;
+	padding: 5px 10px 5px 30px !important;
+}
