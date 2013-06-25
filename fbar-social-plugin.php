@@ -4,7 +4,7 @@ Plugin Name: FBar Social
 Description: FBar Social plugin is a social sticky header bar for wordpress that magically appears at a specific height, it increases social interaction and reduces bounce rate as visitors are more likely to use the search bar.
 Author: Ngan Tengyuen, Simu, Maruf, and Md.khroshed Alam
 Plugin URI: http://www.geckoandfly.com
-Version: 1.0
+Version: 1.1
 License: GPLv2
  */ 
 
