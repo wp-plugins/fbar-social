@@ -33,7 +33,7 @@ PRIMARY KEY (`id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 
 ');
 dbDelta("INSERT INTO `wp_socialinfo_table` (`id`, `display_mode`, `width`,`bar_distance`,`color_scheme`, `border_color`, `show_scroll`, `show_search`, `facebook`, `twitter`, `googleplus`, `linkedin`, `pinterest`, `instagram`, `youtube`, `rss`, `show_content_bar`, `text_msg`,`txtcolor`,`facebook_check`, `twitter_check`, `google_check`, `show_logo`, `upload_img`) VALUES
-(1, 2, 1100,500,'#000000', '#666666', 1, 1, 'https://www.facebook.com/pages/Geckoandfly/229390020415207', 'https://twitter.com/Geckoandfly', 'https://plus.google.com/115866143106162039549', 'http://www.linkedin.com/pub/tengyuen-ngan/1a/91a/aa0', 'http://pinterest.com/ngantengyuen/', 'http://instagram.com/ngantengyuen/', 'http://www.youtube.com/user/calvinngan', 'http://www.geckoandfly.com/feed', 1, 'Hello Guys', '#f7e686', 1, 1, 1, 1, 'wp-content/plugins/fbar/images/logo.png');");
+(1, 2, 1100,500,'#000000', '#666666', 1, 1, 'https://www.facebook.com/pages/Geckoandfly/229390020415207', 'https://twitter.com/Geckoandfly', 'https://plus.google.com/115866143106162039549', 'http://www.linkedin.com/pub/tengyuen-ngan/1a/91a/aa0', 'http://pinterest.com/ngantengyuen/', 'http://instagram.com/ngantengyuen/', 'http://www.youtube.com/user/calvinngan', 'http://www.geckoandfly.com/feed', 1, 'Hello Guys', '#f7e686', 1, 1, 1, 1, 'wp-content/plugins/fbar-social/images/logo.png');");
 }
 function socialplugin_uninstall () {
 global $wpdb;

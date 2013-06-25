@@ -2,8 +2,8 @@
 Contributors: Ngan Tengyuen
 Tags: sticky header, sticky bar, navgation bar, menu bar
 Requires at least: 3.0
-Tested up to: 3.5
-Stable tag: 1.0
+Tested up to: 3.5.2
+Stable tag: 1.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -53,6 +53,9 @@ You may use it free of charge for any purpose.
 It would be great if you blog about it by linking it to the official blog (www.geckoandfly.com)
 
 == Changelog ==
+
+= Version 1.1 =
+Bugs fixes
 
 = Version 1.0 =
 Official release after fixing all the bugs and have it installed on all of my blogs with many enhancements and improvements.

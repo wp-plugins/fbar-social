@@ -49,14 +49,14 @@ $upload_img  = $value->upload_img;
 	
 	<!--Starting Of socialicon-->
 	<div class="rs-socialicon">
-		<?php if($facebook!=''){ ?><a target="_blank" href="<?php echo $facebook;?>"><img src="<?php echo plugins_url()?>/fbar/images/f.png"></a><?php } ?>
-		<?php if($twitter!=''){ ?><a target="_blank" href="<?php echo $twitter;?>"><img src="<?php echo plugins_url()?>/fbar/images/t.png"></a><?php } ?>
-		<?php if($googleplus!=''){ ?><a  target="_blank" href="<?php echo $googleplus;?>"><img src="<?php echo plugins_url()?>/fbar/images/g1.png"></a><?php } ?>
-		<?php if($linkedin!=''){ ?><a  target="_blank" href="<?php echo $linkedin;?>"><img src="<?php echo plugins_url()?>/fbar/images/l.png"></a><?php } ?>
-		<?php if($pinterest!=''){ ?><a  target="_blank" href="<?php echo $pinterest;?>"><img src="<?php echo plugins_url()?>/fbar/images/p.png"></a><?php } ?>
-		<?php if($instagram!=''){ ?><a  target="_blank" href="<?php echo $instagram;?>"><img src="<?php echo plugins_url()?>/fbar/images/i.png"></a><?php } ?>
-		<?php if($youtube!=''){ ?><a  target="_blank" href="<?php echo $youtube;?>"><img src="<?php echo plugins_url()?>/fbar/images/y.png"></a><?php } ?>
-		<?php if($rss!=''){ ?><a  target="_blank" href="<?php echo $rss;?>"><img src="<?php echo plugins_url()?>/fbar/images/r.png"></a><?php } ?>
+		<?php if($facebook!=''){ ?><a target="_blank" href="<?php echo $facebook;?>"><img src="<?php echo plugins_url()?>/fbar-social/images/f.png"></a><?php } ?>
+		<?php if($twitter!=''){ ?><a target="_blank" href="<?php echo $twitter;?>"><img src="<?php echo plugins_url()?>/fbar-social/images/t.png"></a><?php } ?>
+		<?php if($googleplus!=''){ ?><a  target="_blank" href="<?php echo $googleplus;?>"><img src="<?php echo plugins_url()?>/fbar-social/images/g1.png"></a><?php } ?>
+		<?php if($linkedin!=''){ ?><a  target="_blank" href="<?php echo $linkedin;?>"><img src="<?php echo plugins_url()?>/fbar-social/images/l.png"></a><?php } ?>
+		<?php if($pinterest!=''){ ?><a  target="_blank" href="<?php echo $pinterest;?>"><img src="<?php echo plugins_url()?>/fbar-social/images/p.png"></a><?php } ?>
+		<?php if($instagram!=''){ ?><a  target="_blank" href="<?php echo $instagram;?>"><img src="<?php echo plugins_url()?>/fbar-social/images/i.png"></a><?php } ?>
+		<?php if($youtube!=''){ ?><a  target="_blank" href="<?php echo $youtube;?>"><img src="<?php echo plugins_url()?>/fbar-social/images/y.png"></a><?php } ?>
+		<?php if($rss!=''){ ?><a  target="_blank" href="<?php echo $rss;?>"><img src="<?php echo plugins_url()?>/fbar-social/images/r.png"></a><?php } ?>
 	</div>
 	<!--Ending  socialicon-->
 	
