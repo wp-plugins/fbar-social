@@ -68,7 +68,7 @@ class socialinfo_Table {
 //print_r($update);exit;
 
 			if(count($update)){
-			return $wpdb->update(wp_socialinfo_table,$update,array('id'=>$updateid),array('%d','%d','%d','%s','%s','%d','%d','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s'));
+			$wpdb->update(wp_socialinfo_table,$update,array('id'=>$updateid),array('%d','%d','%d','%s','%s','%d','%d','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s'));
 			//include EMP_DOCROOT.'/views/main.php';
 			}
 			}

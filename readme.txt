@@ -3,7 +3,7 @@ Contributors: Ngan Tengyuen
 Tags: sticky header, sticky bar, navgation bar, menu bar
 Requires at least: 3.0
 Tested up to: 3.5.2
-Stable tag: 1.1
+Stable tag: 1.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -53,6 +53,9 @@ You may use it free of charge for any purpose.
 It would be great if you blog about it by linking it to the official blog (www.geckoandfly.com)
 
 == Changelog ==
+
+= Version 1.2 =
+Bugs fixes, fix unable to save settings error
 
 = Version 1.1 =
 Bugs fixes
