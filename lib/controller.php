@@ -1,7 +1,7 @@
 <?php
 
 function socialplugin_menu() {
-add_menu_page('social title', 'FBar Social', 'administrator', 'slugesetting', 'socialplugin_main',plugins_url( "fb.png", __FILE__ ));
+add_menu_page('FBar Social', 'FBar Social', 'administrator', 'slugesetting', 'socialplugin_main',plugins_url( "fb.png", __FILE__ ));
 }
 	function socialplugin_main () {
 	# Insert data
